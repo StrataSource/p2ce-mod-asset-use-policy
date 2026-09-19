@@ -1,8 +1,8 @@
 ---
 title: 'Portal Stories: Mel'
-Created By: 'Prism Game Studios'
+author: 'Prism Game Studios'
 license: 'Custom'
-link: 'https://store.steampowered.com/app/317400/Portal_Stories_Mel/'
+link: 'https://store.steampowered.com/app/317400/Portal_Stories_Mel'
 ---
 
 # Portal Stories: Mel
@@ -18,3 +18,8 @@ Mobster turrets, while a character, are allowed to be used.
 Asset reuploads/ports: Portal gun, Cores, Characters, Story Assets (AEGIS, mobster turrets, etc.).
 
 Campaign reuploads, uploading individual maps with “PBR Enhancements”.
+
+## Info
+
+Please make sure to check the Portal Stories: Mel FAQ page for the most up to date info on asset usage.
+FAQ: <https://steamcommunity.com/app/317400/discussions/0/523890046870378127>
