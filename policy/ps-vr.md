@@ -7,7 +7,7 @@ link: 'https://store.steampowered.com/app/446750/Portal_Stories_VR'
 
 # Portal Stories: VR
 
-If you include any assets from Portal Stories: Mel, please add this disclaimer to your map:
+If you include any assets from Portal Stories: VR, please add this disclaimer to your map:
 
 `Some assets used from Portal Stories: VR ( https://store.steampowered.com/app/446750/Portal_Stories_VR/ ), used with permission.`
 
