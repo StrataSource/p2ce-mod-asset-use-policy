@@ -13,22 +13,19 @@ If you include any assets from Portal Stories: Mel, please add this disclaimer t
 
 ## Allowed
 
-Music usage is allowed under the Creative Commons Attribution 2.0 license.
-
-Mobster turrets, while a character, are allowed to be used.
-
-PS: Mel consists of reused Portal 2 assets which are allowed to be used. Any asset that is not listed below is allowed for usage.
+* Music usage is allowed under the CCA2.0.
+* Any assets not explicitly disallowed.
 
 ## Disallowed
 
-Asset reuploads or ports of the following assets are not allowed:
+* Portal Gun.
+* Aegis
+* Virgil
 
-* Portal Gun
-* Characters/Story Assets (AEGIS, Virgil, other Cores, etc.)
+* Entire campaign reuploads.
+* Uploaded individual levels maps, including enhanced/improved maps.
 
-Entire campaign reuploads are not allowed.
-
-Uploading individual enhanced/improved versions of maps is not allowed.
+The disallowed list is explicit in our FAQ.
 
 ## Info
 
