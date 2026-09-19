@@ -1,5 +1,6 @@
 ---
 title: 'Portal: Example Asset Pack'
+Created By: 'CoolAssetDude'
 license: 'Creative Commons Attribution 4.0'
 link: 'https://example.com'
 ---
