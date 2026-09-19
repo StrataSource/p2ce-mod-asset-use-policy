@@ -1,5 +1,6 @@
 ---
 title: 'Portal: Example Story Mod'
+author: 'ThatModMaker'
 license: 'Custom'
 link: 'https://example.com'
 ---
