@@ -28,8 +28,8 @@ Asset reuploads or ports of the following assets are not allowed:
 
 Entire campaign reuploads are not allowed.
 
-Uploading individual maps with “PBR Enhancements” is not allowed.
+Uploading individual enhanced/improved versions of maps is not allowed.
 
 ## Info
 
-Please make sure to check the Portal Stories: Mel FAQ page for the most up to date info on asset usage. <https://steamcommunity.com/app/317400/discussions/0/523890046870378127>
+Please make sure to check the Portal Stories: Mel FAQ page for the most up to date info on policies. <https://steamcommunity.com/app/317400/discussions/0/523890046870378127>

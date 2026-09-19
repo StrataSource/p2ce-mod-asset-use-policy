@@ -25,4 +25,4 @@ There are a few things we ask of you though: Please link back to the original (S
 
 ## Info
 
-Please make sure to check the Portal Stories: VR FAQ page for the most up to date info on asset usage. <https://steamcommunity.com/app/446750/discussions/0/365163537818105319>
+Please make sure to check the Portal Stories: VR FAQ page for the most up to date info on policies. <https://steamcommunity.com/app/446750/discussions/0/365163537818105319>
